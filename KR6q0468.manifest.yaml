@@ -21,7 +21,7 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0468_000.yaml, hash: 'sha256:49515e3257c90fb049e9aa37e5f819da672956f36a1e0263f3814bb9ac83e64f'}
+  - {seq: 0, filename: KR6q0468_000.yaml, hash: 'sha256:64a12832b91c2117f8c0aac54280e433717d563f3fa7c9f9a85027a9ae63af7b'}
   - {seq: 1, filename: KR6q0468_001.yaml, hash: 'sha256:8bba2466c5199ff6f826ce84bbc3ddd935a048a22427da0909d7a3b67b257ead'}
   - {seq: 2, filename: KR6q0468_002.yaml, hash: 'sha256:6a132505986eb2353994ea73b26ec6aefad4e194965b588325ff495315c0acc1'}
   - {seq: 3, filename: KR6q0468_003.yaml, hash: 'sha256:0c23d4ee83b17980057b3bfda1cb37bd6ffdd01ebb9c15d07e4658c54d1945bc'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 5, filename: KR6q0468_005.yaml, hash: 'sha256:669e33fd3b0915f098254fad24558e9e7fc4109acd2bb1c1e0482863eac74e6b'}
   - {seq: 6, filename: KR6q0468_006.yaml, hash: 'sha256:a35010d09e822d8cf9a41237fd998d845a1c3681b2f602384c40f75fd9c7ba69'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0468_000.markers.yaml, hash: 'sha256:85bd2df3648e755e6a0851d19bec39ab00d9f4fbedaaf0d0d8a9ac2390088948'}
+  - {seq: 0, role: markers, filename: assets/KR6q0468_000.markers.yaml, hash: 'sha256:aa64e602e5f64891257c19cb9ad59ccb4f66c515a59f44cce5ef03d8912cfeb2'}
   - {seq: 1, role: markers, filename: assets/KR6q0468_001.markers.yaml, hash: 'sha256:28542e54221fb3566f14f30b13d6160bc63c8179572107cfe294a3065fe9eaa0'}
   - {seq: 2, role: markers, filename: assets/KR6q0468_002.markers.yaml, hash: 'sha256:e1f9aad0a92755c1d21de43e6645821039db52c5b39aa0f164fe565d522ed7d5'}
   - {seq: 3, role: markers, filename: assets/KR6q0468_003.markers.yaml, hash: 'sha256:780a1fda89f54cbc6872c943d4811ade4c64bac12553e1ad81b9550558b792e7'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0468_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0468_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 劉明孝敘
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0468_J_000-mulu-3
     span:
-    - front
+    - body
     - 7
     - 7
   label: 姚上士序
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0468_J_000-mulu-4
     span:
-    - front
+    - body
     - 812
     - 812
   label: 玄素體道人敘
@@ -81,7 +81,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0468_J_000-mulu-5
     span:
-    - front
+    - body
     - 1519
     - 1519
   label: 淨瑩序
@@ -91,7 +91,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0468_J_000-mulu-6
     span:
-    - front
+    - body
     - 2290
     - 2290
   label: 目錄
@@ -1217,7 +1217,7 @@ table_of_contents:
   label: 續荅三峰曹洞十六問
   type: mulu
   level: 1
-hash: sha256:ad291e8fa9317111302dcb3b1d998c9b9322d4d1ed5adcb768dce174cb54fb64
+hash: sha256:a74b1fc7d4db3a8913f42ed43f1738bfa3fcd2a9155d96cbe7fad63fb2533d98
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
